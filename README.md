@@ -2,7 +2,8 @@
 
 Basic Automate Script based on Selenium And Geckopack driver
 <br>
-<li>
-<ul>Selenium</ul>
-<ul>Geckopack Driver</ul>
+<ul>
+  <li>Selenium</li>
+<li>Geckopack Driver<li>
+  </ul>
 </li>

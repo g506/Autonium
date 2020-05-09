@@ -1,8 +1,8 @@
 # Autonium
 
-Basic Automate Script based on Selenium And Geckopack driver
+Basic Automate Script based on Selenium And Gecko driver
 <br>
 <ul>
   <li>Selenium</li>
-<li>Geckopack Driver<li>
+<li>Gecko Driver</li>
   </ul>
